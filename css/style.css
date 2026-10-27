@@ -1,0 +1,40 @@
+* {
+    font-family: "Josefin Sans", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+img {
+    width:100%;
+}
+body {
+    background-color: rgb(148, 255, 219);
+}
+
+#barra-de-navegacion {
+    background-color:rgb(33, 222, 159);
+}
+.navegacion-links li{
+    display: inline-block;
+    padding: 0.5rem;
+    border-style:dotted;
+}
+.titulo {
+    text-align:center;
+    padding: 3rem;
+}
+#imagen1 {
+    border-style:solid;
+}
+/*#biografia-li {
+    border-color:black;
+    padding: 1rem;
+
+}
+#contacto-li {
+    border-color:black;
+    padding:1rem;
+}
+#portfolio-li {
+    border-color:black;
+    padding:1rem;
+}*/
